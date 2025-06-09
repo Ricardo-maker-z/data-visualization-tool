@@ -1,0 +1,1 @@
+web: streamlit run 图表小工具.py
